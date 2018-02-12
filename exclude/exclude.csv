@@ -1,0 +1,87 @@
+﻿id,MD5,filepath
+1,NULL,NONAME [NTFS]\[root]\ProgramData\Microsoft\
+2,NULL,NONAME [NTFS]\[root]\Users\qub\AppData\Local\Packages\Microsoft.
+3,NULL,NONAME [NTFS]\[root]\Users\qub\AppData\Local\Packages\microsoft.
+5,NULL,NONAME [NTFS]\[unallocated space]\
+6,NULL,NONAME [NTFS]\[root]\Program Files\WindowsApps\
+7,NULL,NONAME [NTFS]\[root]\Program Files\WindowsApps\Microsoft.
+8,NULL,NONAME [NTFS]\[root]\ProgramData\Microsoft\Windows Defender
+9,NULL,NONAME [NTFS]\[root]\Users\qub\AppData\Local\Microsoft\
+10,NULL,NONAME [NTFS]\[root]\Users\qub\AppData\Local\Packages\Microsoft.
+11,NULL,NONAME [NTFS]\[root]\Users\qub\AppData\Roaming\Microsoft\Windows\Themes\
+12,NULL,NONAME [NTFS]\[root]\Program Files\Internet Explorer\
+13,NULL,NONAME [NTFS]\[root]\Program Files\Windows Defender\
+14,NULL,NONAME [NTFS]\[root]\Users\qub\MicrosoftEdgeBackups\
+15,NULL,NONAME [NTFS]\[root]\Program Files\Oracle\
+16,NULL,NONAME [NTFS]\[root]\Program Files\Windows Media Player\
+17,NULL,NONAME [NTFS]\[root]\Program Files\Windows Photo Viewer\
+18,NULL,NONAME [NTFS]\[root]\Program Files\Windows Security\
+19,NULL,NONAME [NTFS]\[root]\Program Files\WindowsPowerShell\
+20,NULL,NONAME [NTFS]\[root]\Program Files\Windows Mail\
+21,NULL,NONAME [NTFS]\[root]\Program Files\windows nt\
+22,NULL,NONAME [NTFS]\[root]\ProgramData\Microsoft OneDrive\
+23,NULL,NONAME [NTFS]\[root]\Users\qub\AppData\Local\MicrosoftEdge\
+24,NULL,NONAME [NTFS]\[root]\Users\qub\AppData\Roaming\Microsoft\Internet Explorer\
+25,NULL,NONAME [NTFS]\[root]\Program Files\Common Files\microsoft shared\ink\
+26,NULL,NONAME [NTFS]\[root]\Users\qub\AppData\Local\Packages\windows.
+27,NULL,NONAME [NTFS]\[root]\Users\qub\AppData\Roaming\Microsoft\Windows\Libraries\
+28,NULL,NONAME [NTFS]\[root]\Users\qub\AppData\Roaming\Microsoft\Windows\SendTo\
+29,NULL,NONAME [NTFS]\[root]\Users\qub\AppData\Roaming\Microsoft\Windows\Start Menu\
+30,NULL,NONAME [NTFS]\[root]\Users\qub\OneDrive\
+31,NULL,NONAME [NTFS]\[root]\Users\qub\Pictures\
+32,NULL,NONAME [NTFS]\[root]\Users\qub\Videos\
+33,NULL,NONAME [NTFS]\[root]\Program Files\Common Files\system\
+34,NULL,NONAME [NTFS]\[root]\Program Files\Common Files\Services\
+35,NULL,NONAME [NTFS]\[root]\Program Files\Common Files\microsoft
+36,NULL,NONAME [NTFS]\[root]\Users\Default\AppData\Local\Microsoft\Windows\WinX\
+37,NULL,NONAME [NTFS]\[root]\Users\Public\
+38,NULL,NONAME [NTFS]\[root]\Users\qub\AppData\Local\Comms\UnistoreDB\
+39,NULL,NONAME [NTFS]\[root]\Users\qub\AppData\Local\Comms\Unistore\
+40,NULL,NONAME [NTFS]\[root]\ProgramData\USOPrivate\
+41,NULL,NONAME [NTFS]\[root]\Program Files\Microsoft.NET\
+42,NULL,NONAME [NTFS]\[root]\Program Files\Windows Multimedia Platform\
+43,NULL,NONAME [NTFS]\[root]\ProgramData\USOShared\
+44,NULL,NONAME [NTFS]\[root]\Users\Default\AppData\Roaming\Microsoft\Windows\Start Menu\
+45,NULL,NONAME [NTFS]\[root]\Users\qub\Favorites\
+46,NULL,NONAME [NTFS]\[root]\Users\qub\Links\
+47,NULL,NONAME [NTFS]\[root]\Users\qub\Music\
+48,NULL,NONAME [NTFS]\[root]\Users\qub\Saved Games\
+49,NULL,NONAME [NTFS]\[root]\Users\qub\Documents\
+50,NULL,NONAME [NTFS]\[root]\Users\qub\Downloads\
+51,NULL,NONAME [NTFS]\[root]\Users\Default\AppData\Roaming\Microsoft\Internet Explorer\
+52,NULL,NONAME [NTFS]\[root]\Users\Default\AppData\Roaming\Microsoft\Windows\SendTo\
+53,NULL,NONAME [NTFS]\[root]\Users\qub\3D Objects\
+54,NULL,NONAME [NTFS]\[root]\Windows\assembly\
+55,NULL,NONAME [NTFS]\[root]\Windows\diagnostics\system\
+56,NULL,NONAME [NTFS]\[root]\Windows\InfusedApps\
+57,NULL,NONAME [NTFS]\[root]\Windows\servicing\
+58,NULL,NONAME [NTFS]\[root]\Windows\System32\DriverStore\
+59,NULL,NONAME [NTFS]\[root]\Windows\WinSxS\
+60,NULL,NONAME [NTFS]\[root]\Windows\Web\
+61,NULL,NONAME [NTFS]\[root]\Windows\SystemResources\Windows.UI.Shell\
+62,NULL,NONAME [NTFS]\[root]\Windows\ImmersiveControlPanel\
+63,NULL,NONAME [NTFS]\[root]\Windows\INF\
+64,NULL,NONAME [NTFS]\[root]\Windows\Microsoft.NET\
+65,NULL,NONAME [NTFS]\[root]\Windows\ServiceProfiles\
+66,NULL,NONAME [NTFS]\[root]\Windows\Speech_OneCore\
+67,NULL,NONAME [NTFS]\[root]\Windows\System32\drivers\
+68,NULL,NONAME [NTFS]\[root]\Windows\System32\en-US\
+69,NULL,NONAME [NTFS]\[root]\Windows\System32\en-GB\
+70,NULL,NONAME [NTFS]\[root]\Windows\System32\migwiz\
+71,NULL,NONAME [NTFS]\[root]\Windows\System32\WindowsPowerShell\
+72,NULL,NONAME [NTFS]\[root]\Windows\SystemApps\
+73,NULL,NONAME [NTFS]\[root]\Windows\Boot\
+74,NULL,NONAME [NTFS]\[root]\Windows\Cursors\
+75,NULL,NONAME [NTFS]\[root]\Windows\Fonts\
+76,NULL,NONAME [NTFS]\[root]\Windows\IME\
+77,NULL,NONAME [NTFS]\[root]\Windows\media\
+78,NULL,NONAME [NTFS]\[root]\Windows\PolicyDefinitions\
+79,NULL,NONAME [NTFS]\[root]\Windows\Provisioning\
+80,NULL,NONAME [NTFS]\[root]\Windows\resources\
+81,NULL,NONAME [NTFS]\[root]\Windows\schemas\
+82,NULL,NONAME [NTFS]\[root]\Windows\security\
+83,NULL,NONAME [NTFS]\[root]\Windows\ShellExperiences\
+84,NULL,NONAME [NTFS]\[root]\Windows\SoftwareDistribution\
+85,NULL,NONAME [NTFS]\[root]\Windows\Speech\
+86,NULL,NONAME [NTFS]\[root]\Windows\System32\CatRoot\
+87,NULL,NONAME [NTFS]\[root]\Windows\

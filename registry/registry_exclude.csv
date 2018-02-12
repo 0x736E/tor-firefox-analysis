@@ -1,0 +1,15 @@
+id,registry_key
+1,HKEY_CURRENT_USER\Software\Microsoft\ActiveMovie
+4,HKEY_CURRENT_USER\Software\Microsoft\Speech_OneCore\
+2,HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\CloudStore\
+3,HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\ContentDeliveryManager\
+13,HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Wallpapers
+5,HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Search\Microsoft.Windows.Cortana
+6,HKEY_CURRENT_USER\Software\Microsoft\Windows\Winlogon\
+7,HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Diagnostics\
+14,HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\WindowsUpdate\
+9,HKEY_LOCAL_MACHINE\System\ControlSet001\Control\DeviceContainers\
+8,HKEY_LOCAL_MACHINE\System\ControlSet001\Control\GraphicsDrivers\
+10,HKEY_LOCAL_MACHINE\System\ControlSet001\Enum\ACPI\
+11,HKEY_LOCAL_MACHINE\System\HardwareConfig
+12,"HKEY_USERS\.DEFAULT\Software\Classes\Local Settings\MuiCache\3\52C64B7E"
